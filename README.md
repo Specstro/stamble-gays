@@ -21,9 +21,15 @@
 ```
 
 ## How to use ?
-<a href="https://user-images.githubusercontent.com/80010446/174270705-ef3e9f24-f4e3-42f9-8640-15ab699900ef.gif">
-  <img src="https://user-images.githubusercontent.com/80010446/174270705-ef3e9f24-f4e3-42f9-8640-15ab699900ef.gif" width="100%">
-</a>
+```
+pkg update && pkg upgrade
+pkg i git
+pkg i nodejs
+git clone https://github.com/Specstro/stamble-gays.git
+cd stamble-gays
+npm i
+node index
+```
 
 ## Proof
 ![](https://i.ibb.co/RCZxtPS/ss.png)
