@@ -34,6 +34,9 @@ cd stamble-gays
 npm i
 node index
 ```
+<a href="https://media.discordapp.net/attachments/822852480445972520/989116117651959818/lv_0_20220622183104.mp4">
+  <img src="https://media.discordapp.net/attachments/822852480445972520/989116117651959818/lv_0_20220622183104.mp4" width="95%">
+</a>
 
 ## Proof
 ![](https://a.top4top.io/p_2364ysr440.png)
