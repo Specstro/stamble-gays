@@ -30,7 +30,7 @@ console.log(chalk.bold.white('              Bye : Ryan\n\n'));
   const auth = rs.question(chalk.bold.gray(`\n[ ${chalk.bold.white('+')} ] ${chalk.bold.white('Auth : ')}`));
   const check = !auth.includes('DeviceId');
   if (check) {
-     console.log(chalk.bold.red(`\n[ ${chalk.bold.white('!')}  ] Mana Ada Auth Kek Gitu`));
+     console.log(chalk.bold.red(`\n[ ${chalk.bold.white('!')} ] Mana Ada Auth Kek Gitu`));
   } else {
   
   const round = rs.question(chalk.bold.gray(`\n[ ${chalk.bold.white('+')} ] ${chalk.bold.white('Round : ')}`));
