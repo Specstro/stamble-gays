@@ -37,7 +37,7 @@ console.log(chalk.bold.white('              Bye : Ryan\n\n'));
   const anjay = [ "0", "1", "2", "3" ]
   const checks = !anjay.includes(round)
   if (checks) {
-      console.log(chalk.bold.red(`\n[ ${chalk.bold.white('!')} ] Gak Ada Round `+round+` 😐`));
+      console.log(chalk.bold.red(`\n[ ${chalk.bold.white('!')} ] Gak Ada Round `+round+`,  Pilih Round : No 1 (Exp) , 2 (Trophy) , 3 (Crown)`));
   } else {
 
   const url = ('http://kitkabackend.eastus.cloudapp.azure.com:5010/round/finishv2/'+round)
